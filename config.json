@@ -1,0 +1,20 @@
+{
+  "TVseries": [
+    {
+      "name" : "Arrow",
+      "cat_num" : "176",
+      "season" : "5.00",
+      "episode" : "07",
+      "quality" : "0",
+      "directory" : "C:\\Users\\Стас\\Downloads\\Стрела"
+    },
+    {
+      "name" : "LegendsOfTomorrow",
+      "cat_num" : "269",
+      "season" : "2.00",
+      "episode" : "06",
+      "quality" : "0",
+      "directory" : "C:\\Users\\Стас\\Downloads\\Легенды Завтрашнего Дня"
+    }
+  ]
+}
