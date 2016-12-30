@@ -94,3 +94,6 @@ ENV/
 
 # torrent
 *.torrent
+
+# PyCharm hidden directory
+.idea/
