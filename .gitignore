@@ -89,8 +89,8 @@ ENV/
 .ropeproject
 
 # HTML, XML
-.html
-.xml
+*.html
+*.xml
 
 # torrent
-.torrent
+*.torrent
